@@ -1,4 +1,4 @@
-## Go Ethereum 1
+## Go Ethereum 12
 
 Official Golang implementation of the Ethereum protocol.
 
